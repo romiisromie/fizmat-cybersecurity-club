@@ -15,6 +15,6 @@ To build a strong technical community within FIZMAT where students can bridge th
 *   **Algorithmic Practices:** Solving competitive security challenges (CTFs) and practicing algorithms mapped to LeetCode patterns.
 
 ## 👤 Leadership & Contacts
-*   **Founder & President:** [Ramina](https://linkedin.com) 
+*   **Founder & President:** [Ramina](https://www.linkedin.com/in/romiisromie) 
 *   **School:** [National School of Physics & Math (FIZMAT)](https://www.linkedin.com/school/fizmat/)
 *   **Location:** 📍 [Bukhar-Zhyrau Blvd 36, Almaty 050000, Kazakhstan](https://google.com) 🇰🇿
